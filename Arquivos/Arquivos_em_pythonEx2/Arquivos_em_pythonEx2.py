@@ -44,7 +44,7 @@ arquivo_B.close()
 ###############
 
 lista_elementos_C = lista_elementos_A + lista_elementos_B
-
+print(lista_elementos_C)
 ###############
 
 arquivo_processado = open(f"{output_arq}","wt")

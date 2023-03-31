@@ -15,9 +15,10 @@
 #     4
 
 input_arq_dados = "C:\\Users\\israe\\Desktop\\Federal\\Programação 2\\Prog2\\Prog2\\Arquivos\\Arquivos_em_pythonEx3\\dadosmat.txt"
+output_arq = "C:\\Users\\israe\\Desktop\\Federal\\Programação 2\\Prog2\\Prog2\\Arquivos\\Arquivos_em_pythonEx3\\mat2x3.txt"
 arquivos_dados = open(f"{input_arq_dados}", "rt")
 lista = []
-
+matriz = []
 for linha in arquivos_dados:
     if linha[-1] == "\n":
         elemento = linha[:-1]
@@ -25,3 +26,26 @@ for linha in arquivos_dados:
         elemento = linha
     lista.append(elemento)
 print(lista)
+
+for k in range(len(lista)):
+    lista[k] = int(lista[k]) 
+
+print(lista)
+
+list_aux=[]
+for i in range(len(lista)):
+    list_aux.append(lista[i])
+    if len(list_aux) == 3:
+        matriz.append(list_aux)
+        list_aux = []
+print(matriz)
+print(len(matriz))
+print(matriz[0])
+
+arquivo_processado = open(f"{output_arq}","wt")
+for i in range(len(matriz)):
+    print(type(matriz[i]))
+    arquivo_processado.write(str(matriz[i])+ '\n')
+arquivo_processado.close()
+
+
