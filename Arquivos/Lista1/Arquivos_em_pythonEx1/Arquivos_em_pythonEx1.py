@@ -7,8 +7,8 @@
 # entrada.
 
 lista = []
-input = "C:\\Users\\israe\\Desktop\\Federal\\Programação 2\\Prog2\\Arquivos\\BaseTeste.txt"
-output = "C:\\Users\\israe\\Desktop\\Federal\\Programação 2\\Prog2\\Arquivos\\BaseTesteProcessada.txt"
+input = "C:\\Users\\israe\\Desktop\\Federal\\Programação 2\\Prog2\\Prog2\\Arquivos\\Lista1\\Arquivos_em_pythonEx1\\BaseTeste.txt"
+output = "C:\\Users\\israe\\Desktop\\Federal\\Programação 2\\Prog2\\Prog2\\Arquivos\\Lista1\\Arquivos_em_pythonEx1\\BaseTesteProcessada.txt"
 
 
 arquivo = open(f'{input}',"rt")
@@ -16,6 +16,7 @@ arquivo = open(f'{input}',"rt")
 for linha in arquivo:
     if linha[-1] == '\n':
         elemento = linha[:-1]
+        
     else:
         elemento = linha
     
