@@ -1,6 +1,7 @@
 # Dois arquivos chamados matA5x10.txt e matB5x10.txt contém, respectivamente, duas matrizes de inteiros de dimensões 5 x 10.
 # O formato dos arquivos é aquele onde cada linha do arquivo representa uma linha da matriz. 
 # Sabendo disso, faça o que é pedido a seguir:
+
 # Atenção: o programa deve estar apto a processar outros arquivos de matrizes e não
 # somente os arquivos matA5x10.txt e matB5x10.txt.
 
@@ -37,10 +38,16 @@ def loadmat(nomearq):
 # Cada linha do arquivo deve conter uma linha da matriz. Por último, a função fecha o arquivo e retorna a matriz m.
 
 def salvamat(nomearq,m):
-    arquivo_processado = open(f"{nomearq}" , "wt")
-    for i in range(len(m)):
-        arquivo_processado.write(str(m[i]) + '\n')
-    arquivo_processado.close()
+    arq = open(f'{nomearq}', 'wt')
+    
+    coluna = len(m[0])
+    linha =  len(m)
+    matriz_saida = ""
+    for i in range(linha):
+        for j in range(coluna):
+            matriz_saida += (f"{m[i][j]:4}\t")
+        matriz_saida += '\n'
+    arq.write(f"{matriz_saida}")
     print("Arquivo gerado")
     return m
 
