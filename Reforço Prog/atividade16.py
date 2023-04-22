@@ -13,6 +13,7 @@ def f_Input_Arq(arq):
             elemento = linha
         lista.append(elemento)
     arquivo.close()
+    print(lista)
     return lista
 
 def f_Calcula_Media(lista):
@@ -23,6 +24,7 @@ def f_Calcula_Media(lista):
         lista1.append(numero)
         media = numero + media
     media = media / len(lista1)
+    print(lista1)
     return media
 def main():
     lista = f_Input_Arq(arq)
