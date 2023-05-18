@@ -1,0 +1,11 @@
+CONSTRUA UM TAD PARA REPRESENTAR UM TIPO DE DADO CHAMADO EQUACAO DO SEGUNDO GRAU. O TAD DEVERÁ POSSUI A SEGUINTE INTERFACE (CONJUNTO DE FUNCOES):
+
+criar(a,b,c) // deve retornar uma estrutura de dados com a , b e c
+quantraizes(<variavel tad eq 2o grau>): int quantas raizes possui a equacao.
+getraiz1(<variavel tad eq 2o grau>): retorna o valor da raiz 1.
+getraiz2(<variavel tad eq 2o grau>): retorna o valor da raiz 2.
+geta(<variavel tad eq 2o grau>): retorna o coeficiente a.
+getb(<variavel tad eq 2o grau>): retorna o coeficiente b.
+getc(<variavel tad eq 2o grau>): retorna o coeficiente c.
+
+gety(geta(<variavel tad eq 2o grau>,val x)): retorna o valor da equacao.
