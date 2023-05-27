@@ -1,0 +1,904 @@
+{
+    "Dados": [
+        {
+            "Placa": "PBW-6194",
+            "Modelo": "DUSTER",
+            "Marca": "RENAULT",
+            "KM": 998854
+        },
+        {
+            "Placa": "UHW-3018",
+            "Modelo": "CELTA",
+            "Marca": "CHEVROLET",
+            "KM": 306070
+        },
+        {
+            "Placa": "MQX-4510",
+            "Modelo": "VOYAGE",
+            "Marca": "VOLKSWAGEN",
+            "KM": 123367
+        },
+        {
+            "Placa": "VUQ-2363",
+            "Modelo": "ETIOS",
+            "Marca": "TOYOTA",
+            "KM": 840557
+        },
+        {
+            "Placa": "UWS-5017",
+            "Modelo": "JETA",
+            "Marca": "VOLKSWAGEN",
+            "KM": 102417
+        },
+        {
+            "Placa": "OGL-9605",
+            "Modelo": "FIT",
+            "Marca": "HONDA",
+            "KM": 416967
+        },
+        {
+            "Placa": "MCE-3341",
+            "Modelo": "STRADA",
+            "Marca": "FIAT",
+            "KM": 519579
+        },
+        {
+            "Placa": "ZAH-8474",
+            "Modelo": "CITY",
+            "Marca": "HONDA",
+            "KM": 40918
+        },
+        {
+            "Placa": "RTT-2220",
+            "Modelo": "VECTRA",
+            "Marca": "CHEVROLET",
+            "KM": 320246
+        },
+        {
+            "Placa": "TXH-6110",
+            "Modelo": "TORO",
+            "Marca": "FIAT",
+            "KM": 983798
+        },
+        {
+            "Placa": "FWR-6398",
+            "Modelo": "207",
+            "Marca": "PEUGEOT",
+            "KM": 371414
+        },
+        {
+            "Placa": "PFB-4530",
+            "Modelo": "ETIOS SEDAN",
+            "Marca": "TOYOTA",
+            "KM": 643654
+        },
+        {
+            "Placa": "FAI-8005",
+            "Modelo": "HR-V",
+            "Marca": "HONDA",
+            "KM": 691239
+        },
+        {
+            "Placa": "ZLU-8487",
+            "Modelo": "CITY",
+            "Marca": "HONDA",
+            "KM": 259940
+        },
+        {
+            "Placa": "LZX-3140",
+            "Modelo": "C3",
+            "Marca": "CITRO\u00c3\u2039N",
+            "KM": 17451
+        },
+        {
+            "Placa": "IHT-6997",
+            "Modelo": "FOX",
+            "Marca": "VOLKSWAGEN",
+            "KM": 661727
+        },
+        {
+            "Placa": "YYA-1717",
+            "Modelo": "KWID",
+            "Marca": "RENAULT",
+            "KM": 634605
+        },
+        {
+            "Placa": "UIF-9525",
+            "Modelo": "ECOSPORT",
+            "Marca": "FORD",
+            "KM": 728925
+        },
+        {
+            "Placa": "SPQ-4348",
+            "Modelo": "ONIX",
+            "Marca": "CHEVROLET",
+            "KM": 973677
+        },
+        {
+            "Placa": "LFS-8535",
+            "Modelo": "UNO",
+            "Marca": "FIAT",
+            "KM": 295721
+        },
+        {
+            "Placa": "JVM-6993",
+            "Modelo": "CELTA",
+            "Marca": "CHEVROLET",
+            "KM": 736752
+        },
+        {
+            "Placa": "FSW-8021",
+            "Modelo": "VECTRA",
+            "Marca": "CHEVROLET",
+            "KM": 109924
+        },
+        {
+            "Placa": "CCR-2858",
+            "Modelo": "FIESTA",
+            "Marca": "FORD",
+            "KM": 998247
+        },
+        {
+            "Placa": "ROP-7053",
+            "Modelo": "COROLLA",
+            "Marca": "TOYOTA",
+            "KM": 472050
+        },
+        {
+            "Placa": "WVY-1938",
+            "Modelo": "GOLF",
+            "Marca": "VOLKSWAGEN",
+            "KM": 518304
+        },
+        {
+            "Placa": "QCV-2101",
+            "Modelo": "CLASSIC",
+            "Marca": "CHEVROLET",
+            "KM": 442641
+        },
+        {
+            "Placa": "TAT-8229",
+            "Modelo": "CIVIC",
+            "Marca": "HONDA",
+            "KM": 559893
+        },
+        {
+            "Placa": "TLI-8783",
+            "Modelo": "TORO",
+            "Marca": "FIAT",
+            "KM": 853165
+        },
+        {
+            "Placa": "HGL-5907",
+            "Modelo": "FIT",
+            "Marca": "HONDA",
+            "KM": 570090
+        },
+        {
+            "Placa": "GRW-5241",
+            "Modelo": "COBALT",
+            "Marca": "CHEVROLET",
+            "KM": 395463
+        },
+        {
+            "Placa": "IZJ-2926",
+            "Modelo": "UP",
+            "Marca": "VOLKSWAGEN",
+            "KM": 112932
+        },
+        {
+            "Placa": "ZXG-5626",
+            "Modelo": "ONIX",
+            "Marca": "CHEVROLET",
+            "KM": 885442
+        },
+        {
+            "Placa": "ZDV-2142",
+            "Modelo": "HILUX",
+            "Marca": "TOYOTA",
+            "KM": 679003
+        },
+        {
+            "Placa": "ZIO-8005",
+            "Modelo": "CIVIC",
+            "Marca": "HONDA",
+            "KM": 113684
+        },
+        {
+            "Placa": "JPQ-7270",
+            "Modelo": "CIVIC",
+            "Marca": "HONDA",
+            "KM": 649862
+        },
+        {
+            "Placa": "DQD-5219",
+            "Modelo": "ETIOS SEDAN",
+            "Marca": "TOYOTA",
+            "KM": 355099
+        },
+        {
+            "Placa": "ZDX-9015",
+            "Modelo": "COBALT",
+            "Marca": "CHEVROLET",
+            "KM": 537535
+        },
+        {
+            "Placa": "YMO-2703",
+            "Modelo": "CELTA",
+            "Marca": "CHEVROLET",
+            "KM": 905525
+        },
+        {
+            "Placa": "GAN-8948",
+            "Modelo": "C3",
+            "Marca": "CITRO\u00c3\u2039N",
+            "KM": 208544
+        },
+        {
+            "Placa": "AXS-1268",
+            "Modelo": "RENEGADE",
+            "Marca": "JEEP",
+            "KM": 723768
+        },
+        {
+            "Placa": "ALD-8959",
+            "Modelo": "FIT",
+            "Marca": "HONDA",
+            "KM": 515189
+        },
+        {
+            "Placa": "EFJ-3029",
+            "Modelo": "RENEGADE",
+            "Marca": "JEEP",
+            "KM": 204759
+        },
+        {
+            "Placa": "CAI-2655",
+            "Modelo": "IDEA",
+            "Marca": "FIAT",
+            "KM": 440773
+        },
+        {
+            "Placa": "ZEJ-8707",
+            "Modelo": "HILUX",
+            "Marca": "TOYOTA",
+            "KM": 841926
+        },
+        {
+            "Placa": "ICF-6948",
+            "Modelo": "CAPTUR",
+            "Marca": "RENAULT",
+            "KM": 709388
+        },
+        {
+            "Placa": "FAA-8649",
+            "Modelo": "ONIX",
+            "Marca": "CHEVROLET",
+            "KM": 185821
+        },
+        {
+            "Placa": "SEC-9133",
+            "Modelo": "FIT",
+            "Marca": "HONDA",
+            "KM": 86527
+        },
+        {
+            "Placa": "BGU-2666",
+            "Modelo": "FOCUS",
+            "Marca": "FORD",
+            "KM": 148962
+        },
+        {
+            "Placa": "ICD-9786",
+            "Modelo": "TORO",
+            "Marca": "FIAT",
+            "KM": 120493
+        },
+        {
+            "Placa": "CCJ-1604",
+            "Modelo": "ONIX",
+            "Marca": "CHEVROLET",
+            "KM": 467298
+        },
+        {
+            "Placa": "PQG-4556",
+            "Modelo": "FOCUS",
+            "Marca": "FORD",
+            "KM": 632750
+        },
+        {
+            "Placa": "XLY-7312",
+            "Modelo": "ONIX",
+            "Marca": "CHEVROLET",
+            "KM": 485345
+        },
+        {
+            "Placa": "KRQ-4884",
+            "Modelo": "FOCUS",
+            "Marca": "FORD",
+            "KM": 680469
+        },
+        {
+            "Placa": "EJA-7034",
+            "Modelo": "CITY",
+            "Marca": "HONDA",
+            "KM": 243392
+        },
+        {
+            "Placa": "HGQ-1840",
+            "Modelo": "SIENA",
+            "Marca": "FIAT",
+            "KM": 160993
+        },
+        {
+            "Placa": "NOC-6197",
+            "Modelo": "UNO",
+            "Marca": "FIAT",
+            "KM": 688227
+        },
+        {
+            "Placa": "JYM-8109",
+            "Modelo": "RENEGADE",
+            "Marca": "JEEP",
+            "KM": 698245
+        },
+        {
+            "Placa": "CAW-4126",
+            "Modelo": "PRISMA",
+            "Marca": "CHEVROLET",
+            "KM": 22825
+        },
+        {
+            "Placa": "IRO-8580",
+            "Modelo": "SPACEFOX",
+            "Marca": "VOLKSWAGEN",
+            "KM": 376526
+        },
+        {
+            "Placa": "DCB-5583",
+            "Modelo": "FIESTA",
+            "Marca": "FORD",
+            "KM": 994566
+        },
+        {
+            "Placa": "AWU-7923",
+            "Modelo": "CORSA",
+            "Marca": "CHEVROLET",
+            "KM": 228605
+        },
+        {
+            "Placa": "WXI-1321",
+            "Modelo": "IDEA",
+            "Marca": "FIAT",
+            "KM": 131216
+        },
+        {
+            "Placa": "FCC-6142",
+            "Modelo": "CORSA",
+            "Marca": "CHEVROLET",
+            "KM": 63030
+        },
+        {
+            "Placa": "PEG-3760",
+            "Modelo": "HILUX",
+            "Marca": "TOYOTA",
+            "KM": 489361
+        },
+        {
+            "Placa": "XUA-9721",
+            "Modelo": "A3",
+            "Marca": "AUDI",
+            "KM": 839919
+        },
+        {
+            "Placa": "RVZ-9991",
+            "Modelo": "ONIX",
+            "Marca": "CHEVROLET",
+            "KM": 281837
+        },
+        {
+            "Placa": "GWK-1839",
+            "Modelo": "PRISMA",
+            "Marca": "CHEVROLET",
+            "KM": 389971
+        },
+        {
+            "Placa": "WUU-2959",
+            "Modelo": "SPACEFOX",
+            "Marca": "VOLKSWAGEN",
+            "KM": 512494
+        },
+        {
+            "Placa": "JID-6747",
+            "Modelo": "PALIO",
+            "Marca": "FIAT",
+            "KM": 602447
+        },
+        {
+            "Placa": "QMZ-5614",
+            "Modelo": "SIENA",
+            "Marca": "FIAT",
+            "KM": 137344
+        },
+        {
+            "Placa": "IGR-9428",
+            "Modelo": "MOBI",
+            "Marca": "FIAT",
+            "KM": 949297
+        },
+        {
+            "Placa": "YBG-6718",
+            "Modelo": "HILUX",
+            "Marca": "TOYOTA",
+            "KM": 830766
+        },
+        {
+            "Placa": "GIJ-3850",
+            "Modelo": "HILUX",
+            "Marca": "TOYOTA",
+            "KM": 871380
+        },
+        {
+            "Placa": "JJZ-6486",
+            "Modelo": "ONIX",
+            "Marca": "CHEVROLET",
+            "KM": 721939
+        },
+        {
+            "Placa": "ZGH-1406",
+            "Modelo": "TUCSON",
+            "Marca": "HYUNDAI",
+            "KM": 832107
+        },
+        {
+            "Placa": "XSA-8236",
+            "Modelo": "CELTA",
+            "Marca": "CHEVROLET",
+            "KM": 339477
+        },
+        {
+            "Placa": "IHA-3440",
+            "Modelo": "ONIX",
+            "Marca": "CHEVROLET",
+            "KM": 239655
+        },
+        {
+            "Placa": "KSC-8558",
+            "Modelo": "ECOSPORT",
+            "Marca": "FORD",
+            "KM": 30291
+        },
+        {
+            "Placa": "MDW-8991",
+            "Modelo": "ONIX",
+            "Marca": "CHEVROLET",
+            "KM": 60071
+        },
+        {
+            "Placa": "ITM-4626",
+            "Modelo": "DUSTER",
+            "Marca": "RENAULT",
+            "KM": 710631
+        },
+        {
+            "Placa": "JDQ-6777",
+            "Modelo": "VOYAGE",
+            "Marca": "VOLKSWAGEN",
+            "KM": 858068
+        },
+        {
+            "Placa": "IFF-1377",
+            "Modelo": "STRADA",
+            "Marca": "FIAT",
+            "KM": 149891
+        },
+        {
+            "Placa": "ZZD-9049",
+            "Modelo": "ECOSPORT",
+            "Marca": "FORD",
+            "KM": 341190
+        },
+        {
+            "Placa": "RGC-9955",
+            "Modelo": "FIESTA",
+            "Marca": "FORD",
+            "KM": 413541
+        },
+        {
+            "Placa": "MMT-5940",
+            "Modelo": "CITY",
+            "Marca": "HONDA",
+            "KM": 502407
+        },
+        {
+            "Placa": "IHH-5511",
+            "Modelo": "KWID",
+            "Marca": "RENAULT",
+            "KM": 693676
+        },
+        {
+            "Placa": "TFH-3139",
+            "Modelo": "COROLLA",
+            "Marca": "TOYOTA",
+            "KM": 423054
+        },
+        {
+            "Placa": "PIE-8516",
+            "Modelo": "CLIO",
+            "Marca": "RENAULT",
+            "KM": 163186
+        },
+        {
+            "Placa": "UCM-3367",
+            "Modelo": "UP",
+            "Marca": "VOLKSWAGEN",
+            "KM": 187853
+        },
+        {
+            "Placa": "VGW-3686",
+            "Modelo": "TORO",
+            "Marca": "FIAT",
+            "KM": 484059
+        },
+        {
+            "Placa": "BWD-7544",
+            "Modelo": "COROLLA",
+            "Marca": "TOYOTA",
+            "KM": 239936
+        },
+        {
+            "Placa": "AOH-7187",
+            "Modelo": "FOX",
+            "Marca": "VOLKSWAGEN",
+            "KM": 453095
+        },
+        {
+            "Placa": "UJU-4474",
+            "Modelo": "SPACEFOX",
+            "Marca": "VOLKSWAGEN",
+            "KM": 338405
+        },
+        {
+            "Placa": "RJI-3644",
+            "Modelo": "KWID",
+            "Marca": "RENAULT",
+            "KM": 679649
+        },
+        {
+            "Placa": "JFE-3484",
+            "Modelo": "PALIO",
+            "Marca": "FIAT",
+            "KM": 814621
+        },
+        {
+            "Placa": "JDJ-4502",
+            "Modelo": "PRISMA",
+            "Marca": "CHEVROLET",
+            "KM": 105207
+        },
+        {
+            "Placa": "FNT-4888",
+            "Modelo": "CAPTIVA",
+            "Marca": "CHEVROLET",
+            "KM": 487073
+        },
+        {
+            "Placa": "FUU-9469",
+            "Modelo": "VECTRA",
+            "Marca": "CHEVROLET",
+            "KM": 162799
+        },
+        {
+            "Placa": "EZF-1774",
+            "Modelo": "HB20",
+            "Marca": "HYUNDAI",
+            "KM": 130098
+        },
+        {
+            "Placa": "VBX-3195",
+            "Modelo": "CAPTUR",
+            "Marca": "RENAULT",
+            "KM": 494427
+        },
+        {
+            "Placa": "KDG-2761",
+            "Modelo": "C3",
+            "Marca": "CITRO\u00c3\u2039N",
+            "KM": 930653
+        },
+        {
+            "Placa": "ZSG-8451",
+            "Modelo": "I30",
+            "Marca": "HYUNDAI",
+            "KM": 372168
+        },
+        {
+            "Placa": "HKO-5375",
+            "Modelo": "PALIO WEEKEND",
+            "Marca": "FIAT",
+            "KM": 746296
+        },
+        {
+            "Placa": "ZFL-9619",
+            "Modelo": "COBALT",
+            "Marca": "CHEVROLET",
+            "KM": 890384
+        },
+        {
+            "Placa": "XHY-6370",
+            "Modelo": "FIT",
+            "Marca": "HONDA",
+            "KM": 876454
+        },
+        {
+            "Placa": "RSY-7397",
+            "Modelo": "UP",
+            "Marca": "VOLKSWAGEN",
+            "KM": 530694
+        },
+        {
+            "Placa": "ADW-2760",
+            "Modelo": "ETIOS",
+            "Marca": "TOYOTA",
+            "KM": 348016
+        },
+        {
+            "Placa": "MNR-4178",
+            "Modelo": "PUNTO",
+            "Marca": "FIAT",
+            "KM": 372721
+        },
+        {
+            "Placa": "PJD-1954",
+            "Modelo": "VECTRA",
+            "Marca": "CHEVROLET",
+            "KM": 271192
+        },
+        {
+            "Placa": "BCV-6100",
+            "Modelo": "SANDERO",
+            "Marca": "RENAULT",
+            "KM": 369539
+        },
+        {
+            "Placa": "VRW-2429",
+            "Modelo": "DUSTER",
+            "Marca": "RENAULT",
+            "KM": 33212
+        },
+        {
+            "Placa": "TWS-1481",
+            "Modelo": "DUSTER",
+            "Marca": "RENAULT",
+            "KM": 797344
+        },
+        {
+            "Placa": "ENE-8919",
+            "Modelo": "A3",
+            "Marca": "AUDI",
+            "KM": 318233
+        },
+        {
+            "Placa": "BHY-6441",
+            "Modelo": "RENEGADE",
+            "Marca": "JEEP",
+            "KM": 314078
+        },
+        {
+            "Placa": "WPH-5710",
+            "Modelo": "COROLLA",
+            "Marca": "TOYOTA",
+            "KM": 966731
+        },
+        {
+            "Placa": "TPH-3396",
+            "Modelo": "STRADA",
+            "Marca": "FIAT",
+            "KM": 707598
+        },
+        {
+            "Placa": "MXD-8656",
+            "Modelo": "SAVEIRO",
+            "Marca": "VOLKSWAGEN",
+            "KM": 22812
+        },
+        {
+            "Placa": "MCR-4225",
+            "Modelo": "SANDERO",
+            "Marca": "RENAULT",
+            "KM": 809299
+        },
+        {
+            "Placa": "NVQ-3506",
+            "Modelo": "HR-V",
+            "Marca": "HONDA",
+            "KM": 882650
+        },
+        {
+            "Placa": "MWB-1572",
+            "Modelo": "COROLLA",
+            "Marca": "TOYOTA",
+            "KM": 848586
+        },
+        {
+            "Placa": "ONC-1648",
+            "Modelo": "CORSA",
+            "Marca": "CHEVROLET",
+            "KM": 781756
+        },
+        {
+            "Placa": "IAR-4053",
+            "Modelo": "RENEGADE",
+            "Marca": "JEEP",
+            "KM": 401230
+        },
+        {
+            "Placa": "BSF-3890",
+            "Modelo": "LOGAN",
+            "Marca": "RENAULT",
+            "KM": 764271
+        },
+        {
+            "Placa": "UCB-9257",
+            "Modelo": "VOYAGE",
+            "Marca": "VOLKSWAGEN",
+            "KM": 573441
+        },
+        {
+            "Placa": "BQK-5190",
+            "Modelo": "TORO",
+            "Marca": "FIAT",
+            "KM": 544619
+        },
+        {
+            "Placa": "QGA-1412",
+            "Modelo": "STRADA",
+            "Marca": "FIAT",
+            "KM": 933631
+        },
+        {
+            "Placa": "GQD-5419",
+            "Modelo": "FOCUS",
+            "Marca": "FORD",
+            "KM": 990790
+        },
+        {
+            "Placa": "NPO-9736",
+            "Modelo": "SAVEIRO",
+            "Marca": "VOLKSWAGEN",
+            "KM": 942572
+        },
+        {
+            "Placa": "SNT-7582",
+            "Modelo": "HR-V",
+            "Marca": "HONDA",
+            "KM": 627008
+        },
+        {
+            "Placa": "MYT-1956",
+            "Modelo": "CLASSIC",
+            "Marca": "CHEVROLET",
+            "KM": 536956
+        },
+        {
+            "Placa": "BMU-8572",
+            "Modelo": "TORO",
+            "Marca": "FIAT",
+            "KM": 798625
+        },
+        {
+            "Placa": "SEF-3616",
+            "Modelo": "CORSA",
+            "Marca": "CHEVROLET",
+            "KM": 527276
+        },
+        {
+            "Placa": "YVA-7613",
+            "Modelo": "FOCUS",
+            "Marca": "FORD",
+            "KM": 888592
+        },
+        {
+            "Placa": "DPI-8217",
+            "Modelo": "PRISMA",
+            "Marca": "CHEVROLET",
+            "KM": 825736
+        },
+        {
+            "Placa": "JTD-9168",
+            "Modelo": "UP",
+            "Marca": "VOLKSWAGEN",
+            "KM": 557052
+        },
+        {
+            "Placa": "NCQ-5191",
+            "Modelo": "TORO",
+            "Marca": "FIAT",
+            "KM": 713719
+        },
+        {
+            "Placa": "DVV-8740",
+            "Modelo": "LOGAN",
+            "Marca": "RENAULT",
+            "KM": 620626
+        },
+        {
+            "Placa": "AVR-7240",
+            "Modelo": "CELTA",
+            "Marca": "CHEVROLET",
+            "KM": 646315
+        },
+        {
+            "Placa": "FDX-6513",
+            "Modelo": "MOBI",
+            "Marca": "FIAT",
+            "KM": 576128
+        },
+        {
+            "Placa": "NMK-1420",
+            "Modelo": "VOYAGE",
+            "Marca": "VOLKSWAGEN",
+            "KM": 299112
+        },
+        {
+            "Placa": "YHH-6228",
+            "Modelo": "VOYAGE",
+            "Marca": "VOLKSWAGEN",
+            "KM": 241332
+        },
+        {
+            "Placa": "JQZ-1839",
+            "Modelo": "KA",
+            "Marca": "FORD",
+            "KM": 798957
+        },
+        {
+            "Placa": "JCG-9343",
+            "Modelo": "CLASSIC",
+            "Marca": "CHEVROLET",
+            "KM": 15217
+        },
+        {
+            "Placa": "ICB-9118",
+            "Modelo": "FOCUS",
+            "Marca": "FORD",
+            "KM": 886960
+        },
+        {
+            "Placa": "CEK-6127",
+            "Modelo": "CLIO",
+            "Marca": "RENAULT",
+            "KM": 207582
+        },
+        {
+            "Placa": "RUS-4619",
+            "Modelo": "KWID",
+            "Marca": "RENAULT",
+            "KM": 381208
+        },
+        {
+            "Placa": "YDI-1402",
+            "Modelo": "FUSCA",
+            "Marca": "VOLKSWAGEN",
+            "KM": 320809
+        },
+        {
+            "Placa": "ZCM-5565",
+            "Modelo": "MARCH",
+            "Marca": "NISSAN",
+            "KM": 762386
+        },
+        {
+            "Placa": "YIY-8451",
+            "Modelo": "COROLLA",
+            "Marca": "TOYOTA",
+            "KM": 180042
+        },
+        {
+            "Placa": "JXJ-8182",
+            "Modelo": "TORO",
+            "Marca": "FIAT",
+            "KM": 696658
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "Dados": [
+        {
+            "cpf": "951399129-65",
+            "nome": "Luiza Barbosa",
+            "end": " Escadaria An\u00c3\u00adbal Eug\u00c3\u00aanio dos Santos, no. 33, cep 794399-102, S\u00c3\u00a3o Crist\u00c3\u00b3v\u00c3\u00a3o, Iconha, BA",
+            "celular": " 929071149"
+        },
+        {
+            "cpf": "776969837-04",
+            "nome": "Heitor Silva Barros",
+            "end": " Beco An\u00c3\u00adsio Pereira do Nascimento, no. 8, cep 297106-145, Fradinhos, Vit\u00c3\u00b3ria, MS",
+            "celular": " 923285539"
+        },
+        {
+            "cpf": "769954560-61",
+            "nome": "Lorenzo Martins",
+            "end": " Rua Andr\u00c3\u00a9 Rodrigues Pedro, no. 4, cep 806857-174, Bonfim, Vit\u00c3\u00b3ria, PE",
+            "celular": " 918349763"
+        },
+        {
+            "cpf": "799294087-40",
+            "nome": "Rafaela Lima Pereira",
+            "end": " Rua Anselmo Serrat, no. 75, cep 24227-426, Bento Ferreira, Jacara\u00c3\u00adpe, CE",
+            "celular": " 911475853"
+        },
+        {
+            "cpf": "863716788-56",
+            "nome": "Maria Eduarda Barros Almeida",
+            "end": " Rua Ant\u00c3\u00b4nio Aleixo, no. 36, cep 23367-557, Enseada do Su\u00c3\u00a1, Cachoeiro, MT",
+            "celular": " 960451748"
+        },
+        {
+            "cpf": "641748048-85",
+            "nome": "Lucas Pereira Dias Fernandes",
+            "end": " Rua Angelindo Carareto, no. 38, cep 580081-978, Monte Belo, Linhares, PI",
+            "celular": " 913839348"
+        },
+        {
+            "cpf": "840168777-39",
+            "nome": "Isabelly Nascimento",
+            "end": " Beco Antenor Falc\u00c3\u00a3o, no. 25, cep 488762-492, Santo Andr\u00c3\u00a9, Serra, PE",
+            "celular": " 891553674"
+        },
+        {
+            "cpf": "977050575-66",
+            "nome": "Mait\u00c3\u00aa Santos Ara\u00c3\u00bajo Fernandes",
+            "end": " Travessa \u00c3\u201angelo Zardine, no. 100, cep 782103-116, Itarar\u00c3\u00a9, Iconha, TO",
+            "celular": " 951766331"
+        },
+        {
+            "cpf": "666924459-89",
+            "nome": "Cec\u00c3\u00adlia Barbosa Gomes Oliveira",
+            "end": " Beco An\u00c3\u00adsio Pereira do Nascimento, no. 8, cep 974939-568, Maria Ortiz, Jacara\u00c3\u00adpe, RS",
+            "celular": " 884524299"
+        },
+        {
+            "cpf": "677686151-68",
+            "nome": "Enzo Gabriel Gomes Pinto",
+            "end": " Rua Anselmo Serrat, no. 1, cep 692126-379, Santa L\u00c3\u00bacia, Linhares, RS",
+            "celular": " 989852618"
+        },
+        {
+            "cpf": "933117601-82",
+            "nome": "Ben\u00c3\u00adcio Cavalcanti Costa Carvalho",
+            "end": " Rua Alfredo Otto Drews, no. 79, cep 69141-589, Santo Andr\u00c3\u00a9, Muniz Freire, SP",
+            "celular": " 951526938"
+        },
+        {
+            "cpf": "977278270-64",
+            "nome": "Luiza Rocha Fernandes Carvalho",
+            "end": " Rua Antenor Guimar\u00c3\u00a3es, no. 70, cep 768002-080, Boa Vista, I\u00c3\u00bana, MA",
+            "celular": " 967850506"
+        },
+        {
+            "cpf": "726222966-25",
+            "nome": "Matheus Freitas Rocha Rodrigues",
+            "end": " Escadaria Ant\u00c3\u00adpo Francisco do Nascimento, no. 87, cep 825473-244, Monte Belo, Manguinhos, MT",
+            "celular": " 880981961"
+        },
+        {
+            "cpf": "782564089-47",
+            "nome": "Guilherme Dias Alves Gomes",
+            "end": " Rua Anselmo Serrat, no. 60, cep 171937-424, Solon Borges, Nova Ven\u00c3\u00a9cia, AC",
+            "celular": " 936636769"
+        },
+        {
+            "cpf": "829093487-00",
+            "nome": "Jo\u00c3\u00a3o Pedro Martins Barros Ribeiro",
+            "end": " Beco Antenor Falc\u00c3\u00a3o, no. 77, cep 386600-076, Bela Vista, Cariacica, GO",
+            "celular": " 886749190"
+        },
+        {
+            "cpf": "969414516-76",
+            "nome": "Rafael Costa",
+            "end": " Beco Andrelino Lucas dos Santos, no. 40, cep 725473-912, Carato\u00c3\u00adra, Alegre, PR",
+            "celular": " 941104933"
+        },
+        {
+            "cpf": "738254302-27",
+            "nome": "Rafaela Lima Costa",
+            "end": " Beco Antenor Falc\u00c3\u00a3o, no. 9, cep 509068-090, Maru\u00c3\u00adpe, Iconha, RJ",
+            "celular": " 903414465"
+        },
+        {
+            "cpf": "772436258-42",
+            "nome": "Ant\u00c3\u00b4nio Nascimento Fernandes Barbosa",
+            "end": " Rua \u00c3\u201angelo Car\u00c3\u00a3o, no. 92, cep 621611-470, Cruzamento, Nova Ven\u00c3\u00a9cia, DF",
+            "celular": " 969204375"
+        },
+        {
+            "cpf": "624058233-42",
+            "nome": "J\u00c3\u00balia Ara\u00c3\u00bajo",
+            "end": " Pra\u00c3\u00a7a Anita Francisca Crystello, no. 45, cep 101348-445, S\u00c3\u00a3o Crist\u00c3\u00b3v\u00c3\u00a3o, Colatina, SE",
+            "celular": " 918134385"
+        },
+        {
+            "cpf": "783787038-32",
+            "nome": "Pedro Henrique Monteiro Ara\u00c3\u00bajo Carvalho",
+            "end": " Rua Antiocho Carneiro de Mendon\u00c3\u00a7a, no. 11, cep 616587-281, Horto, Manguinhos, RR",
+            "celular": " 937319159"
+        },
+        {
+            "cpf": "889932585-07",
+            "nome": "Rafaela Mendes Cardoso Silva",
+            "end": " Rua Ann\u00c3\u00adbal Vieira Rabayolli, no. 55, cep 275383-159, Bento Ferreira, Nova Ven\u00c3\u00a9cia, MA",
+            "celular": " 907563336"
+        },
+        {
+            "cpf": "763253964-24",
+            "nome": "Antonella Castro Ara\u00c3\u00bajo",
+            "end": " Travessa Alfredo Sampaio, no. 12, cep 961726-523, Jardim da Penha, Nova Almeida, PI",
+            "celular": " 884361197"
+        },
+        {
+            "cpf": "723979003-30",
+            "nome": "Isabelly Barbosa",
+            "end": " Ladeira Anthero Bra\u00c3\u00addo, no. 94, cep 759718-258, Bonfim, Colatina, DF",
+            "celular": " 984560596"
+        },
+        {
+            "cpf": "777023000-71",
+            "nome": "Yasmin Santos",
+            "end": " Travessa \u00c3\u201angelo Zardine, no. 60, cep 452381-532, Maru\u00c3\u00adpe, Iconha, SC",
+            "celular": " 908881506"
+        },
+        {
+            "cpf": "832491744-37",
+            "nome": "Ana Clara Castro Silva",
+            "end": " Beco Andrelino Lucas dos Santos, no. 23, cep 664093-729, Morada de Camburi, Jacara\u00c3\u00adpe, AP",
+            "celular": " 966100543"
+        }
+    ]
+}
