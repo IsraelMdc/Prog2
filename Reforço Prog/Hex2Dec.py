@@ -1,38 +1,51 @@
-def b162b10():
-    #entrada de dados
+def str2int(n):
     lista = []
-    base = 16
-    n10 = 0
-    n16 = input()
-    #processamento dos dados
-    while n16 != '':
-        str2list = list(n16)
-        for elemento in str2list:
-            if elemento == 'A':
-                elemento = '10'
-            if elemento == 'B':
-                elemento = '11'
-            if elemento == 'C':
-                elemento = '12'    
-            if elemento == 'D':
-                elemento = '13'
-            if elemento == 'E':
-                elemento = '14'
-            if elemento == 'F':
-                elemento = '15' 
-            elemento = int(elemento)
-            lista.append(elemento)
-        lista.reverse()
-        for i in range(len(lista)):
-            pos = lista.index(lista[i])
-            r = (base ** pos) * lista[i]
-            n10 = n10 + r
-        #saida de dados
-        print(f'BASE16={n16} BASE10={n10}')
-        n16 = input()
+    n16 = n.upper()
+    str2list = list(n16)
+    for letra in str2list:
+        if letra == 'A':
+            letra = 10
+        if letra == 'B':
+            letra = 11
+        if letra == 'C':
+            letra = 12    
+        if letra == 'D':
+            letra = 13
+        if letra == 'E':
+            letra = 14
+        if letra == 'F':
+            letra = 15 
+        letra = int(letra)
+        lista.append(letra)
+    lista.reverse()
+    return lista 
+
+def b162b10(lista):
+    base = 16 
+    n10 = 0 
+    lst = [] 
+    for i in range(len(lista)):  
+        r = 0
+        pos = lista.index(lista[i])
+        r = (base ** pos) * lista[i]
+        lst.append(r)
+    
+    for n in lst:
+        n10 = n + n10 
+    
+    return n10
+
+def resultado(n16,n10):
+    print(f'BASE16={n16} BASE10={n10}')
 
 def main():
-    b162b10()
+    n16 = input()
+
+    while n16 != '':
+        lst = str2int(n16)
+        n10 = b162b10(lst)
+        resultado(n16,n10)
+        n16 = input()
 
 if __name__ == "__main__":
 
