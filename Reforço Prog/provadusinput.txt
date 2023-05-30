@@ -1,0 +1,33 @@
+Declare todas as variáveis que utilizar em seus programas e com letras em minúsculo.
+
+Faça um programa em Python 3 para resolver o problema a seguir:
+
+Deseja-se fazer o processamento das diversas transações bancárias dos diversos clientes de um banco. O valor de N (quantidade de clientes) é o primeiro dado fornecido pelo usuário deste programa e é um valor inteiro maior que zero.
+
+Para cada uma dos N clientes existentes é fornecido um conjunto de valores nesta ordem:
+
+o número da conta bancária - tipo (string);
+
+a quantidade de transações realizadas - tipo (int);
+
+o saldo da conta no início do dia – tipo (float);
+
+Os demais dados desta conta bancária são:
+
+o tipo de transação bancária – a letra C para representar crédito na conta ou a letra D para representar débito na conta - tipo (string)
+
+o valor da transação bancária - tipo (float)
+
+Fazer um programa que:
+
+Para cada uma das N contas bancárias (diversas contas):
+
+Imprima o número da conta, o valor do saldo da conta no início do dia e o valor do saldo final ao final do dia. Imprima também uma mensagem saldo insuficiente somente se o saldo final for menor ou igual a zero.
+
+Imprima o número da conta com maior saldo final e o valor do saldo final.
+
+Imprima o número da conta com menor saldo final e o valor do saldo final.
+
+Determine e imprima quantas contas tiveram saldo insuficiente.
+
+Obs.: Para facilitar sua solução, considere que nenhuma conta possui saldo final superior a R$100.000.000,00 e inferior a R$–100.000.000,00-
