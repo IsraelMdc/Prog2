@@ -1,0 +1,7 @@
+M x TK
+Q + TK
+M + R
+-R x TK
+M - R
+-M x R
+M x R
