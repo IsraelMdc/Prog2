@@ -37,7 +37,6 @@ def soma_mat(tadA, tadB):
         return lst_out
     else:
         return None
-
     
 def  transp_mat(tadA):
     tadTA=cria_mat(len(tadA[0]), len(tadA))
