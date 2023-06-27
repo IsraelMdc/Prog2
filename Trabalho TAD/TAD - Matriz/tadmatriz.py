@@ -21,7 +21,7 @@ def multi_mat(tadA, tadB):
     else:
         return None
         
-def  neg_mat(tadA):
+def neg_mat(tadA):
     for linha in range(len(tadA)):
         for coluna in range(len(tadA[linha])):
             tadA[linha][coluna]=tadA[linha][coluna]*-1
@@ -66,7 +66,7 @@ def salvamat(tadmat,nomearq):
     matriz_saida = ""
     for i in range(len(tadmat)):
         for j in range(len(tadmat[i])):
-            matriz_saida += (f"{tadmat[i][j]:4}\t")
+            matriz_saida += (f"{tadmat[i][j]:>6}")
         matriz_saida += '\n'
         
     arq.write(f"{matriz_saida}")
