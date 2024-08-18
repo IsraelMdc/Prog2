@@ -1,0 +1,32 @@
+a fabrica é dividida em 3 categorias
+A=
+   -fazem 30 peças por mes
+   -recebe salario minimo
+
+B= 
+   -fazem 31 a 35 peças por mes
+   -recebe salario minimo + 3% do salario minimo por peça
+    acima das 30 iniciais
+
+C=  
+   -fazem +35 peças por mes
+   -recebe salario minimo + 5% do salario minimo por peça
+    acima das 30 iniciais
+
+CONDIÇAO DE PARADA ( FLAG) = NUMERO DO OPERARIO IGUAL A 0
+
+LER
+   -NUMERO DO OPERARIO FEITO
+   -NUMERO DE PEÇAS POR MES FEITO
+   -SEXO DO OPERARIO FEITO
+
+CALCULAR E ESCREVER
+   -SALARIO DO OPERARIO FEITO
+   -O TOTAL DA FOLHA MENSAL DE PAGAMENTO DA FABRICA
+   -O NUMERO TOTAL DE PEÇAS FABRICADAS POR MES
+   -A MÉDIA DE PEÇAS FABRICADAS PELOS HOMENS EM CADA CLASSE
+   -A MÉDIA DE PEÇAS FABRICADAS PELAS MULHERES EM CADA CLASSE
+   -O NUMERO DO OPERARIO OU OPERARIA DE MAIOR SALARIO
+    (NAO EXISTE EMPATE)
+
+
