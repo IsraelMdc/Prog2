@@ -14,12 +14,12 @@ def main():
 
     #Parar de medir o tempo de execução
     end_time = time.time()
+        
+    # Imprime a lista ordenada
+    print("Lista ordenada: ", sorted_numbers)
 
     # Imprime o tempo de execução subtraidno o tempo final do tempo inicial
     print("Tempo de execução: ", end_time - start_time, "segundos")
-    
-    # Imprime a lista ordenada
-    print("Lista ordenada: ", sorted_numbers)
 
 if __name__ == "__main__":
     main()
